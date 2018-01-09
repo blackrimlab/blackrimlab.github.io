@@ -4,15 +4,47 @@ title: Projects
 permalink: /projects/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The research in the lab covers a wide range of topics from large dataset and large phylogenetic analyses, rates of evoluti0n, plant macroevolution, and transcriptomics. A brief description for some of the major research projects is provided below.
+Open Tree of Life
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The lab is working with a number of other PIs on ways to construct a tree of all life (all > 2 million species). We are working on ways to add trees to graphs for analysis and comparison and also visualization. More information about this project can be found here and here.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- S. A. Smith, J. Brown, and C. Hinchliff. 2013. Analyzing and Synthesizing Phylogenies Using Tree Alignment Graphs. PLoS Computational Biology. link
 
+## Plant evolution
 
-[jekyll-organization]: https://github.com/jekyll
+Although people in the lab work on a wide range of organisms, we generally always come back to plants at some point.  Some of the subjects we are always interest in include biogeography and the evolution of particular ecological niches, rates of evolution, and the evolution of particular adaptations.
+
+### Some relevant publications
+
+- Grass Phylogeny Working Group II. 2012. New grass phylogeny resolves deep evolutionary relationships and discovers C4 origins. New Phytologist. 193: 304-312.
+- Soltis, D. E., S. A. Smith, N. Cellinese, et al. 2011. Angiosperm phylogeny: 17 genes, 640 taxa. American J. of Botany.98:704.
+- Smith, S. A., J. Beaulieu, A. Stamatakis, and M. J. Donoghue. 2011. Understanding angiosperm diversification using large and small phylogenies. American J. of Botany. 98: 404-414. pdf
+- E. E. Goldberg,1 J. R. Kohn, R. Lande, K. A. Robertson, S. A. Smith, and B. Igic. 2010. Species Selection Maintains Self-Incompatibility. Science. 328: 587-591. pdf
+- Edwards, E.J., C. P. Osborne, C. A. E. Strömberg, S. A. Smith, and C4 Grasses Consortium. 2010. The origins of C4 grasslands: integrating evolutionary and ecosystem science. Science. 328: 587-591. pdf
+- Smith, S. A, J. M. Beaulieu and M. J. Donoghue. 2010. An uncorrelated relaxed-clock analysis suggests an earlier origin for flowering plants. PNAS. 107: 5897-5902. pdf (F1000)
+- Smith, S. A. and M. J. Donoghue. 2010. Combining Historical Biogeography with Niche Modeling in the Caprifolium Clade of Lonicera (Caprifoliaceae, Dipsacales). Syst. Biol. 590: 322-341. pdf
+- E. Edwards and S. A. Smith. 2010. Phylogenetic analyses reveal the shady history of C4 grasses. PNAS. 107: 2532-2538. pdf
+- Smith, S. A. 2009. Taking into account phylogenetic and divergence-time uncertainty in a parametric biogeographic analysis of the Northern Hemisphere plant clade Caprifolieae. Journal of Biogeography. pdf
+- Ree, R. H. and S. A. Smith. 2008. Maximum-likelihood Inference of Geographic Range Evolution by Dispersal, Local Extinction, and Cladogenesis. Syst. Biol. 57: 4-14. pdf
+- Evans, M. E., S. A. Smith, R. E. Flynn and M. J. Donoghue. 2009. Climate, niche evolution, and diversification of the “bird-cage” evening primroses (Oenothera, sections Anogra and Kleinia). American Naturalist. pdf
+- Cellinese, N., S. A. Smith, E. J. Edwards, S. T. Kim, R. C. Haberle, M. Avramakis and M. J. Donoghue. in press. Historical biogeography of the endemic Campanulaceae of Crete. Journal of Biogeography.
+
+## Large phylogenetics
+
+We develop methods and software for assembling large datasets with an emphasis on both large numbers of taxa and with large numbers of genes. In particular we have an interest in showing how large phylogenies can illuminate problems that we have not been able to address adequately with smaller phylogenies. We have also been developing methods, in relation to the opentree of life grant that place trees into a common graph. This allows for interesting ways to synthesize and analyze sets of trees.
+
+- Smith, S. A. and B. O'Meara. 2012. treePL: Divergence time estimation using penalized likelihood for large phylogenies. Bioinformatics. doi: 10.1093/bioinformatics/bts492. link
+- Stamatakis, A., A. Aberer, C. Goll, S. A. Smith, S. Berger, and F. Izquierdo-Carrasco. 2012. Raxml-light: a tool for computing terabyte phylogenies. Bioinformatics, 28(15):2064–2066. doi: 10.1093/bioinformatics/bts309. link
+- Izquierdo-Carrasco F, S. A. Smith, A. Stamatakis. 2011. Algorithms, Data Structures, and Numerics for Likelihood-based Phylogenetic Inference of Huge Trees. BMC Bioinformatics. 12(1):470. link
+- Smith, S. A., J. Beaulieu, A. Stamatakis, and M. J. Donoghue. 2011. Understanding angiosperm diversification using large and small phylogenies. American J. of Botany. 98: 404-414. pdf
+- Smith, S. A., J. Beaulieu, and M. J. Donoghue. 2009.  Mega-phylogeny approach for comparative biology: an alternative to supertree and supermatrix approaches. BMC Evol Biol. . 9: 37.link (listed as "Highly accessed") (F1000)
+
+## Transcriptomics
+
+Recently we have started developing methods and building and analyzing phylogenetic datasets with sequences generated by next generation sequencing techniques.
+
+- Yang, Y. and S. A. Smith. 2013. Optimizing de novo assembly of short-read RNA-seq data for phylogenomics. BMC Genomics. link
+- Smith, S. A., N. G. Wilson, F. E. Goetz, C. Feehery, S. C. S. Andrade, G. W. Rouse, G. Giribet, C. W. Dunn. 2011. Resolving the evolutionary relationships of molluscs with phylogenomic tools. Nature pdf
+- S. Siebert, M. Robinson, S. Tintori, F. Goetz, R. Helm, S. A. Smith, N. Shaner, S. Haddock, C. Dunn. 2011. Differential Gene Expression in the Siphonophore Nanomia bijuga (Cnidaria) Assessed with Multiple Next-Generation Sequencing Workflows. PLoS ONE link
+- Dunn, C. W., A. Hejnol, D. Q. Matus, K. Pang, W. E. Browne, S. A. Smith, et al. 2008. Broad taxon sampling improves resolution of the Animal Tree of Life in phylogenomic analyses. Nature. 452: 745-749. pdf
