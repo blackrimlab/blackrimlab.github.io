@@ -77,5 +77,51 @@ Drew is working on the Ericales.
 
 ## Undergraduate students
 
+### Sonia Ahluwalia
+
+### Yi Chieh Huang
+
+### Dana El-Khatib
 
 ## Past members
+
+### Joseph Brown
+![lijun](/assets/img/joseph.jpg){:style="float: right;margin-right: 7px;margin-bottom: 7px; width: 120px;"}
+Joseph was a postdoc working on the Open Tree of Life and has moved on to a research position in England. 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+### Ya Yang
+![yang](/assets/img/yang.jpg){:style="float: right;margin-right: 7px;margin-bottom: 7px; width: 120px;"}
+Ya was a postdoc working on transcriptomics and is now a professor at UMinn! Her website can be found here.
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+### James Pease
+![james](/assets/img/james.jpg){:style="float: right;margin-right: 7px;margin-bottom: 7px; width: 120px;"}
+James was a postdoc and got a position at Wake Forest in 2016!
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+### Cody Hinchliff
+![cody](/assets/img/cody.jpg){:style="float: right;margin-right: 7px;margin-bottom: 7px; width: 120px;"}
+Cody is working with Joseph on the Open Tree of Life project. He is also interested in methods for building really large phylogenies and specifically in plants.
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
