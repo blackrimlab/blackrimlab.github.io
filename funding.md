@@ -4,7 +4,7 @@ title: Funding
 permalink: /funding/
 ---
 
-## Total funding awarded to date: \$2,754,915
+_* Total funding awarded to date: \$2,754,915 *_
 
 ### Current
 - NSF ABI (2015-2018, #1458466, \$294,514) -- Co PI -- Connecting resources to enable large-scale biodiversity analyses.
