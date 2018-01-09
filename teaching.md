@@ -4,15 +4,16 @@ title: Teaching
 permalink: /teaching/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Classes
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- 2012-current: Evolution, EEB 390 University of Michigan
+- 2013-current: Phylogenetic Systematics (Phylogenetic Theory and Methods), EEB 491, University of Michigan
+- 2017-current: Science, Reasons, and Nonsense
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Other teaching
 
-
-[jekyll-organization]: https://github.com/jekyll
+- 2013-current: Instructor, Computational Molecular Evolution (CoME) Workshops
+- 2009: Instructor, Bodega Bay Workshop in Applied Phylogenetics.
+- 2007-2008: Lecturer, MB&B 230 Rainforest Expedition and Laboratory: Phyloinformatics Workshop, Yale University, Yale University
+- 2007: Instructor, NESCent Computational Phyloinformatics Course: Java Component
+- 2004-2007: Teaching Assistant, Plant Diversity and Evolution, Yale University, 2004-2007
