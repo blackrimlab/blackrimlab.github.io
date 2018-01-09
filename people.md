@@ -52,7 +52,7 @@ Just joined the lab and is working with Chris Dick as well. Oscar is working on 
 ## Graduate students
 
 ### Joseph Walker
-![joe](/assets/img/joe.jpg){:style="float: right;margin-right: 7px;margin-bottom: 7px; width: 120px;"}
+![joe](/assets/img/joe.jpg){:style="float: right;margin-right: 7px;margin-bottom: 7px; width: 100px;"}
 Joe a graduate student working on mammal molecular evolution and phylogenomics.
 <br>
 <br>
@@ -62,7 +62,7 @@ Joe a graduate student working on mammal molecular evolution and phylogenomics.
 
 
 ### Lijun Zhao 
-![lijun](/assets/img/lijun.jpg){:style="float: right;margin-right: 7px;margin-bottom: 7px; width: 120px;"}
+![lijun](/assets/img/lijun.jpg){:style="float: right;margin-right: 7px;margin-bottom: 7px; width: 100px;"}
 Lijun is working on Aizoaceae.
 <br>
 <br>
@@ -72,7 +72,7 @@ Lijun is working on Aizoaceae.
 
 
 ### Drew Larson 
-![drew](/assets/img/drew.jpg){:style="float: right;margin-right: 7px;margin-bottom: 7px; width: 120px;"}
+![drew](/assets/img/drew.jpg){:style="float: right;margin-right: 7px;margin-bottom: 7px; width: 100px;"}
 Drew is working on the Ericales. 
 <br>
 <br>
@@ -102,7 +102,7 @@ Joseph was a postdoc working on the Open Tree of Life and has moved on to a rese
 
 
 ### Ya Yang
-![yang](/assets/img/yang.jpg){:style="float: right;margin-right: 7px;margin-bottom: 7px; width: 120px;"}
+![yang](/assets/img/yang.png){:style="float: right;margin-right: 7px;margin-bottom: 7px; width: 120px;"}
 Ya was a postdoc working on transcriptomics and is now a professor at UMinn! Her website can be found here.
 <br>
 <br>
