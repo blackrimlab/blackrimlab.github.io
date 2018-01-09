@@ -51,6 +51,29 @@ Just joined the lab and is working with Chris Dick as well. Oscar is working on 
 
 ## Graduate students
 
+### Joseph Walker
+![joe](/assets/img/joe.jpg){:style="float: right;margin-right: 7px;margin-bottom: 7px; width: 120px;"}
+Joe a graduate student working on mammal molecular evolution and phylogenomics.
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+### Lijun Zhao 
+![lijun](/assets/img/lijun.jpg){:style="float: right;margin-right: 7px;margin-bottom: 7px; width: 120px;"}
+Lijun is working on Aizoaceae.
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+### Drew Larson 
+![drew](/assets/img/drew.jpg){:style="float: right;margin-right: 7px;margin-bottom: 7px; width: 120px;"}
+Drew is working on the Ericales. 
 
 ## Undergraduate students
 
