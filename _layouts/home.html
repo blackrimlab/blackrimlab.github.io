@@ -24,7 +24,9 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
         <!--<p>{{ post.excerpt }}</p>-->
-        <p>{{ post.content }}</p>
+        <div class="entry-content">
+            {{ post.content }}
+        </div>
         <!--{{ post.content | strip_html | truncatewords:75}}<br>
         <a href="{{ post.url }}">Read more...</a>--><br><br>
       </li>
