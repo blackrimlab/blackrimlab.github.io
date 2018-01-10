@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teaching
-permalink: /teaching/
+title: Courses
+permalink: /courses/
 ---
 
 ## Classes
