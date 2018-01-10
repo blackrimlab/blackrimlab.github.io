@@ -6,9 +6,9 @@ permalink: /courses/
 
 ## Classes
 
-- 2012-current: Evolution, EEB 390 University of Michigan
+- 2012-current: Evolution, EEB 390, University of Michigan
 - 2013-current: Phylogenetic Systematics (Phylogenetic Theory and Methods), EEB 491, University of Michigan
-- 2017-current: Science, Reasons, and Nonsense
+- 2017-current: [Science, Reasons, and Nonsense, BIO 121, University of Michigan](coursepages/bio121.md)
 
 ## Other teaching
 
