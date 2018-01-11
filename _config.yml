@@ -39,3 +39,12 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+header_pages:
+  - courses.md
+  - people.md
+  - projects.md
+  - publications.md
+  - software.md
+  - support.md
+
