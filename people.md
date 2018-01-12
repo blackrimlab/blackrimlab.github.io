@@ -4,6 +4,8 @@ title: People
 permalink: /people/
 ---
 
+![lab in 2018](/assets/img/lab.jpg){:style="float: center;width: 400px;"}
+
 ## PI: Stephen A. Smith
 ![blackrim as pixel art](/assets/img/pixel_me.png){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 120px;"}
 I work on questions related to plant evolution (e.g., biogeography, age, pattern), detecting and describing large scale patterns of evolution, examining differences in the rate of molecular evolution, and biogeographic patterns. A great deal of this involves the development of new methods and new computational tools. More information on projects related to these topics can be found on the projects page. My faculty page is here. You can get my cv [here](http://blackrim.org/wp-content/uploads/2017/09/cv.pdf?189db0&189db0). 
