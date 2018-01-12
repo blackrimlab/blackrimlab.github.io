@@ -32,7 +32,7 @@ Just joined the lab and is working on bird evolution, phylogenomics, and phyloge
 
 ### Greg Stull
 ![greg](/assets/img/greg.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 120px;"}
-Comes to us from the NSF collections postdoc program. 
+Comes to us from the NSF collections postdoc program. Greg is looking at geography, paleo, and phylogenetics.
 <br>
 <br>
 <br>
@@ -41,7 +41,8 @@ Comes to us from the NSF collections postdoc program.
 
 
 ### Oscar Mauricio Vargas Hernandez 
-Just joined the lab and is working with Chris Dick as well. Oscar is working on Andean plant evolution.
+![oscar](/assets/img/oscar.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 120px;"}
+Joined the lab and is working with Chris Dick and I on Andean plant evolution.
 <br>
 <br>
 <br>
