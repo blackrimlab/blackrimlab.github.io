@@ -10,6 +10,7 @@ Welcome to the Smith lab! In the picture on the right, we actually have most of 
 <br>
 <br>
 <br>
+<br>
 
 
 ## PI: Stephen A. Smith
