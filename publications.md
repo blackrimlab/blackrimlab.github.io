@@ -9,6 +9,9 @@ permalink: /publications/
 
 - Smith, S. A. and J. W. Brown. 2018. Constructing a comprehensive seed plant phylogeny. American Journal of Botany [link](http://onlinelibrary.wiley.com/doi/10.1002/ajb2.1019/full)
 - Pease J.B., J. W. Brown, J. F. Walker, C. E. Hinchliff, S. A. Smith. 2018. Quartet Sampling distinguishes lack of support from conflicting support in the plant tree of life. American Journal of Botany [link](onlinelibrary.wiley.com/doi/10.1002/ajb2.1016/abstract)
+- Cheng, S., M. Melkonian, S. A. Smith, S. Brockington, J. M. Archibald, P. Delaux, F. Li, B. Melkonian, E. V. Mavrodiev, W. Sun, Y. Fu, H. Yang, D. E. Soltis, S. W. Graham, P. S. Soltis, X. Liu, X. Xu, G. K. Wong. 2018. 10KP: A phylodiverse genome sequencing plan. GigaScience
+- Eiserhardt, W. L., A. Antonelli, D. J. Bennett, L. R. Botigué, J. G. Burleigh, S. Dodsworth, B. J. Enquist, F. Forest, J. T. Kim, A. M. Kozlov, I. J. Leitch, B. S. Maitner, S. Mirarab, W. H. Piel, O. A. Pérez‐Escobar, L. Pokorny, C. Rahbek, B. Sandel, S. A Smith, A. Stamatakis, R. A. Vos, T. Warnow, W. J. Baker. 2018. A roadmap for global synthesis of the plant tree of life. American Journal of Botany
+
 
 ## 2017
 - Fleischmann, A., J. Schlauer, T. Givnish, and S. A. Smith. 2017. Evolution of carnivory in angiosperms. Chapter 3. in forthcoming book on Carnivory in angiosperms.
