@@ -7,7 +7,7 @@ permalink: /publications/
 
 ## 2019
 
-- Allen, J., C. C Germain-Aubrey, N. Barve, K. M. Neubig, L. C. Majure, S. W. Laffan, B. D. Mishler, H. L. Owens, \textbf{S. A Smith}, W. M. Whitten, J. R. Abbott, D. E. Soltis, R. Guralnick, P. S. Soltis. 2019. Spatial Phylogenetics of Florida Vascular Plants: The Effects of Calibration and Uncertainty on Diversity Estimates. {\it iScience} 11:57-70.
+- Allen, J., C. C Germain-Aubrey, N. Barve, K. M. Neubig, L. C. Majure, S. W. Laffan, B. D. Mishler, H. L. Owens, S. A Smith, W. M. Whitten, J. R. Abbott, D. E. Soltis, R. Guralnick, P. S. Soltis. 2019. Spatial Phylogenetics of Florida Vascular Plants: The Effects of Calibration and Uncertainty on Diversity Estimates. iScience. 11:57-70.
 
 ## 2018
 - Wang, N. Y. Yang, M. J. Moore, S. F. Brockington, J. F. Walker, J. W. Brown, B. Liang, T. Feng, C. Edwards, J. Mikenas, J. Olivieri, V. Hutchinson, A. Timoneda, T. Stoughton, R. Puente, L. C. Majure, U. Eggli, S. A. Smith. 2018. Evolution of Portulacineae marked by gene tree conflict and gene family expansion associated with adaptation to harsh environments. Molecular Biology and Evolution
