@@ -7,10 +7,10 @@ permalink: /publications/
 
 ## 2019
 
-- Allen, J., C. C Germain-Aubrey, N. Barve, K. M. Neubig, L. C. Majure, S. W. Laffan, B. D. Mishler, H. L. Owens, S. A Smith, W. M. Whitten, J. R. Abbott, D. E. Soltis, R. Guralnick, P. S. Soltis. 2019. Spatial Phylogenetics of Florida Vascular Plants: The Effects of Calibration and Uncertainty on Diversity Estimates. iScience. 11:57-70.
+- Allen, J., C. C Germain-Aubrey, N. Barve, K. M. Neubig, L. C. Majure, S. W. Laffan, B. D. Mishler, H. L. Owens, **S. A Smith**, W. M. Whitten, J. R. Abbott, D. E. Soltis, R. Guralnick, P. S. Soltis. 2019. Spatial Phylogenetics of Florida Vascular Plants: The Effects of Calibration and Uncertainty on Diversity Estimates. iScience. 11:57-70.
 
 ## 2018
-- Wang, N. Y. Yang, M. J. Moore, S. F. Brockington, J. F. Walker, J. W. Brown, B. Liang, T. Feng, C. Edwards, J. Mikenas, J. Olivieri, V. Hutchinson, A. Timoneda, T. Stoughton, R. Puente, L. C. Majure, U. Eggli, S. A. Smith. 2018. Evolution of Portulacineae marked by gene tree conflict and gene family expansion associated with adaptation to harsh environments. Molecular Biology and Evolution
+- **Wang, N.**, **Y. Yang**, M. J. Moore, S. F. Brockington, **J. F. Walker**, **J. W. Brown**, B. Liang, T. Feng, C. Edwards, J. Mikenas, J. Olivieri, V. Hutchinson, A. Timoneda, T. Stoughton, R. Puente, L. C. Majure, U. Eggli, **S. A. Smith**. 2018. Evolution of Portulacineae marked by gene tree conflict and gene family expansion associated with adaptation to harsh environments. Molecular Biology and Evolution
 - Walker, J., J. W. Brown, and S. A. Smith. 2018. Analyzing contentious relationships and outlier genes in phylogenomics. Systematic Biology. 67:916–924. [link](https://doi.org/10.1093/sysbio/syy043)
 - Smith, S. A. and J. F. Walker. 2018. PyPHLAWD: A python tool for phylogenetic dataset construction. Methods in Ecology and Evolution [link](https://doi.org/10.1111/2041-210X.13096)
 - Li-Min, L., L. Mao, T. Yang, J. Ye, B. Liu, H. Li, M. Sun, J. T. Miller, S. Mathews, H. Hu, Y. Niu, D. Peng, Y. Chen, S. A. Smith, M. Chen, K. Xiang, C. Le, V. Dang, A. Lu, P. S. Soltis, D. E. Soltis, J. Li and Z. Chen. 2018. Evolutionary history of the angiosperm flora of China-cradle vs. museum. Nature. 554:234-238. doi:10.1038/nature25485
