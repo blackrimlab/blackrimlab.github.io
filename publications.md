@@ -5,8 +5,16 @@ permalink: /publications/
 ---
 *lab members in bold*
 
-## 2018
+## 2019
 
+- Allen, J., C. C Germain-Aubrey, N. Barve, K. M. Neubig, L. C. Majure, S. W. Laffan, B. D. Mishler, H. L. Owens, \textbf{S. A Smith}, W. M. Whitten, J. R. Abbott, D. E. Soltis, R. Guralnick, P. S. Soltis. 2019. Spatial Phylogenetics of Florida Vascular Plants: The Effects of Calibration and Uncertainty on Diversity Estimates. {\it iScience} 11:57-70.
+
+## 2018
+- Wang, N. Y. Yang, M. J. Moore, S. F. Brockington, J. F. Walker, J. W. Brown, B. Liang, T. Feng, C. Edwards, J. Mikenas, J. Olivieri, V. Hutchinson, A. Timoneda, T. Stoughton, R. Puente, L. C. Majure, U. Eggli, S. A. Smith. 2018. Evolution of Portulacineae marked by gene tree conflict and gene family expansion associated with adaptation to harsh environments. Molecular Biology and Evolution
+- Walker, J., J. W. Brown, and S. A. Smith. 2018. Analyzing contentious relationships and outlier genes in phylogenomics. Systematic Biology. 67:916–924. [link](https://doi.org/10.1093/sysbio/syy043)
+- Smith, S. A. and J. F. Walker. 2018. PyPHLAWD: A python tool for phylogenetic dataset construction. Methods in Ecology and Evolution [link](https://doi.org/10.1111/2041-210X.13096)
+- Li-Min, L., L. Mao, T. Yang, J. Ye, B. Liu, H. Li, M. Sun, J. T. Miller, S. Mathews, H. Hu, Y. Niu, D. Peng, Y. Chen, S. A. Smith, M. Chen, K. Xiang, C. Le, V. Dang, A. Lu, P. S. Soltis, D. E. Soltis, J. Li and Z. Chen. 2018. Evolutionary history of the angiosperm flora of China-cradle vs. museum. Nature. 554:234-238. doi:10.1038/nature25485
+- Smith, S. A.}, J. F. Walker, and J. Brown. 2018. So many genes, so little time: rate variation in phylogenomic datasets. PLoS One [link](https://doi.org/10.1101/114975)
 - Smith, S. A. and J. W. Brown. 2018. Constructing a comprehensive seed plant phylogeny. American Journal of Botany [link](http://onlinelibrary.wiley.com/doi/10.1002/ajb2.1019/full)
 - Pease J.B., J. W. Brown, J. F. Walker, C. E. Hinchliff, S. A. Smith. 2018. Quartet Sampling distinguishes lack of support from conflicting support in the plant tree of life. American Journal of Botany [link](onlinelibrary.wiley.com/doi/10.1002/ajb2.1016/abstract)
 - Cheng, S., M. Melkonian, S. A. Smith, S. Brockington, J. M. Archibald, P. Delaux, F. Li, B. Melkonian, E. V. Mavrodiev, W. Sun, Y. Fu, H. Yang, D. E. Soltis, S. W. Graham, P. S. Soltis, X. Liu, X. Xu, G. K. Wong. 2018. 10KP: A phylodiverse genome sequencing plan. GigaScience
