@@ -19,9 +19,9 @@ I work on questions related to plant evolution (e.g., biogeography, age, pattern
 
 ## Postdocs
 
-### Simon Uribe-Convers
-![simon](/assets/img/simon.jpeg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 120px;"}
-Simon joined the lab to work on the Open Tree of Life and building a tree for Fungi. 
+### Hannah Marx
+![hannah](assets/img/hannah.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 120px;"}
+Hannah joined the lab to work on Andean plant diversity and cold plant evolution. 
 <br>
 <br>
 <br>
@@ -39,37 +39,27 @@ Just joined the lab and is working on bird evolution, phylogenomics, and phyloge
 <br>
 
 
-### Greg Stull
-![greg](/assets/img/greg.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 120px;"}
-Comes to us from the NSF collections postdoc program. Greg is looking at geography, paleo, and phylogenetics.
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-### Oscar Mauricio Vargas Hernandez 
-![oscar](/assets/img/oscar.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 120px;"}
-Joined the lab and is working with Chris Dick and I on Andean plant evolution.
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 ## Graduate students
 
-### Joseph Walker
-![joe](/assets/img/joe.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
-Joe a graduate student working on mammal molecular evolution and phylogenomics.
+### Hector Figueroa
+_images of Hector are hard to find_
+
+Hector is working on community phylogenetics and ecology using new theory and methods.
 <br>
 <br>
 <br>
 <br>
 <br>
 
+### Will Weaver 
+_image of Will coming soon!_
+
+Will is working on machine learning techniques for evolution and ecology.
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Lijun Zhao 
 ![lijun](/assets/img/lijun.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
@@ -100,6 +90,43 @@ Drew is working on the Ericales.
 ### Dana El-Khatib
 
 ## Past members
+
+### Joseph Walker
+![joe](/assets/img/joe.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
+Joe a graduate student working on mammal molecular evolution and phylogenomics.
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Greg Stull
+![greg](/assets/img/greg.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 120px;"}
+Comes to us from the NSF collections postdoc program. Greg is looking at geography, paleo, and phylogenetics.
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+### Oscar Mauricio Vargas Hernandez 
+![oscar](/assets/img/oscar.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 120px;"}
+Joined the lab and is working with Chris Dick and I on Andean plant evolution.
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Simon Uribe-Convers
+![simon](/assets/img/simon.jpeg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 120px;"}
+Simon joined the lab to work on the Open Tree of Life and building a tree for Fungi. 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Joseph Brown
 ![lijun](/assets/img/joseph.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 120px;"}
