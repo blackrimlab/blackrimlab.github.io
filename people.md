@@ -52,8 +52,7 @@ Hector is working on community phylogenetics and ecology using new theory and me
 <br>
 
 ### Will Weaver 
-_image of Will coming soon!_
-
+![lijun](/assets/img/will.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
 Will is working on machine learning techniques for evolution and ecology.
 <br>
 <br>
