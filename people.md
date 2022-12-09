@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 
-![lab in 2018](/assets/img/lab.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 400px;"}
+![lab in 2022](/assets/img/lab2.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 400px;"}
 Welcome to the Smith lab! In the picture on the right, we actually have most of the grad students, postdocs, and visitors in the lab in one picture (with the exception of Oscar - sorry Oscar!). 
 <br>
 <br>
