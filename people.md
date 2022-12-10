@@ -19,6 +19,7 @@ I work on questions related to plant evolution, detecting and describing large s
 
 ## Postdocs
 ### Joey Charboneau
+![joey](assets/img/joey.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
 <br>
 <br>
 <br>
@@ -26,6 +27,7 @@ I work on questions related to plant evolution, detecting and describing large s
 <br>
 
 ### Tom Carruthers
+![tom](assets/img/tom.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
 <br>
 <br>
 <br>
@@ -33,6 +35,7 @@ I work on questions related to plant evolution, detecting and describing large s
 <br>
 
 ### Jake Berv
+![jake](assets/img/jake.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
 <br>
 <br>
 <br>
