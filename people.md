@@ -101,6 +101,13 @@ Raquel is also joint with [Chris Dick]() and this lab and works on systematics i
 ## Visitors
 
 ### James Boyko
+![james](/assets/img/james.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
+James joined from University of Arkansas and is currently a postdoc with Dr. Brian O'Meara.
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Undergraduate students
 
