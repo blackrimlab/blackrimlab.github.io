@@ -80,8 +80,8 @@ Will is working on machine learning techniques for evolution and ecology.
 <br>
 <br>
 
-### Diana
-![diana](){}
+### Diana Medellín-Zabala
+![diana](/assets/img/diana.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
 Diana is joint with [Chris Dick]() and this lab and works on systematics in the Ericales clade. 
 <br>
 <br>
@@ -89,8 +89,8 @@ Diana is joint with [Chris Dick]() and this lab and works on systematics in the 
 <br>
 <br>
 
-### Raquel
-![raquel](){}
+### Raquel Pizzardo
+![raquel](/assets/img/raquel.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
 Raquel is also joint with [Chris Dick]() and this lab and works on systematics in the Ericales clade. 
 <br>
 <br>
