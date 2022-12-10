@@ -5,12 +5,65 @@ permalink: /publications/
 ---
 *lab members in bold*
 
+## 2022
+
+## 2021
+- Guo, X., D. Fang, S. Kumar Sahu, S. Yang, X. Guang, R. Folk, **S. A. Smith**, A. S. Chanderbali, S. Chen, M. Liu, T. Yang, S. Zhang, X. Liu, X. Xu, P. S. Soltis, D. E. Soltis, and H. Liu. 2021. Chloranthus genome provides insights into the early diversification of angiosperms. **Nature Communications**. 12:1-14. [link](https://www.nature.com/articles/s41467-021-26922-4)
+
+- Linan, A. G., J. A. Myers, C. E. Edwards, A. E. Zanne, **S. A. Smith**, G. Arellano, L. Cayola, W. Farfan-Ríos, A. F. Fuentes, K. García-Cabrera, S. González-Caro, M. I. Loza, M. J. Macía, Y. Malhi, B. Nieto-Ariza, N. Salinas, M. Silman, and J. S. Tello. 2021. The evolutionary assembly of forest communities along environmental gradients: recent diversification or sorting of pre-adapted clades? **New Phytologist**. [link](https://doi.org/10.1111/nph.17674)
+
+- **Walker, J. F.**, **S. A. Smith**, **R. Hodel**, and E. Moyroud. 2021. Concordance-Based Approaches for the Inference of Relationships and Molecular Rates with Phylogenomic Data Sets. **Systematic Biology**. syab052. [link](https://doi.org/10.1093/sysbio/syab052)
+
+- **Figueroa, H.**, **H. E. Marx**, M. B. de S. Cortez, C. J. Grady, N. J. Engle-Wrye, J. Beach, A. Stewart, R. A. Folk, D. E. Soltis, P. S. Soltis, and **S. A. Smith**. 2021. Contrasting patterns of phylogenetic diversity and alpine specialization across the alpine flora of the American mountain range system. **Alpine Botany**. [link](https://doi.org/10.1007/s00035-021-00261-y)
+
+- Keppel, G., D. Craven, P. Weigelt, **S. A. Smith**, M. T. van der Sande, B. Sandel, S. C. Levin, H. Kreft, and T. M. Knight. 2021. Synthesizing tree biodiversity data to understand global patterns and processes of vegetation. **Journal of Vegetation Science**. 32:e13021.
+
+- Cortez, M. B. De S. , R. A. Folk, C. J. Grady, J. P. Spoelhof, **S. A Smith**, D. E. Soltis, and P. S. Soltis. 2021. Is the age of plant communities predicted by the age, stability and soil composition of the underlying landscapes? An investigation of OCBILs. **Biological Journal of the Linnean Society**. 133:297-316.
+
+- **Stull., G. W.**, X.-J. Qu, C. Parins-Fukuchi, Y.-Y. Yang, J.-B. Yang, Z.-Y. Yang, Y. Hu, H. Ma, P. S. Soltis, D. E. Soltis, D.-Z. Li, **S. A. Smith**, and T.-S. Yi. 2021. Gene duplications and genomic conflict underlie major pulses of phenotypic evolution in gymnosperms. **Nature Plants**. [link](https://www.biorxiv.org/content/10.1101/2021.03.13.435279v1.abstract)
+
+- **Figueroa, H.** and **S. A. Smith**. 2021. A targeted phylogenetic approach helps explain New World functional diversity patterns of two eudicot lineages. **Journal of Biogeography**. 48: 202-215.
+
+- Parins-Fukuchi, C., **G. W. Stull**, and **S. A. Smith**. 2021. Phylogenomic conflict coincides with rapid morphological innovation. **PNAS**. 118:e2023058118.
+
+- Singhal, S., T. Colston, M. Grundler, **S. A. Smith**, G. C. Costa, G. Colli, C. Moritz, A. Pyron, and D. Rabosky. 2021. Congruence and conflict in the higher-level phylogenetics of squamate reptiles: an expanded phylogenomic perspective.**Systematic Biology**. 70:542-557 [link](https://doi.org/10.1093/sysbio/syaa054)
+
+- Morales-Briones, D., G. Kadereit, D. T Tefarikis, M. J. Moore, **S. A. Smith**, S. F. Brockington, A. Timoneda, W. C. Yim, J. C Cushman, and Y. Yang. 2021. Disentangling Sources of Gene Tree Discordance in Phylogenomic Data Sets: Testing Ancient Hybridizations in Amaranthaceae s.l. **Systematic Biology**. 70:219-235.
+
+
+## 2020
+- **Smith, S. A., N. Walker-Hale**, and **J. F. Walker**. 2020. Intragenic Conflict in Phylogenomic Data Sets. **Molecular Biology and Evolution**. 37: 3380-3388.
+
+- Mishler, B. D., R. Guralnick, P. S. Soltis, **S. A. Smith**, D. Soltis, N. Barve, J. M. Allen, and S. Laffan. 2020. Spatial phylogenetics of the North American flora. **Journal of Systematics and Evolution**. 58:393-405. 
+
+- Lu, L., H. Hu, D. Peng, B. Liu, J. Ye, T. Yang, H. Li, M. Sun, **S. A. Smith**, P. S. Soltis, D. E. Soltis, Z. Chen. 2020. Noise does not equal bias in assessing the evolutionary history of the angiosperm flora of China: A response to Qian (2019). **Journal of Biogeography**. 47:2286-2291.
+
+- Sandel, B., P. Weigelt, H. Kreft, G. Keppel, M. T van der Sande, S. Levin, **S. A. Smith**, D. Craven, and T. M. Knight. 2020. Current climate, isolation and history drive global patterns of tree phylogenetic endemism. **Global Ecology and Biogeography**. 29:4-15.
+
+- **Stull, G. W.**, P. Soltis, D. Soltis, M. Gitzendanner, and **S. A. Smith**. 2020. Nuclear phylogenomic analyses of asterids conflict with plastome trees and support novel relationships among major lineages. **American Journal of Botany**. 107:790-805.
+
+- **Smith, S. A.**, **N. Walker-Hale**, **J. F. Walker**, and **J. Brown**. 2020. Phylogenetic conflicts, combinability, and deep phylogenomics in plants. **Systematic Biology.** 69:579-592. [link](https://doi.org/10.1101/371930)
+
+- **Larson, D. A., J. F. Walker, O. M. Vargas**, and **S. A. Smith**. 2020. A consensus phylogenomic approach highlights paleopolyploid and rapid radiation in the history of Ericales. **American Journal of Botany**. 107:773-789.
+
+- Sheehan, H., T. Feng, **N. Walker‐Hale**, S. Lopez‐Nieves, B. Pucker, R. Guo, W. Yim, R. Badgami, A. Timoneda, **L. Zhao**, H. Tiley, D. Copetti, M. Sanderson, J. Cushman, M. Moore, **S. A. Smith**, and S. Brockington. 2020. Evolution of l‐DOPA 4, 5‐dioxygenase activity allows for recurrent specialisation to betalain pigmentation in Caryophyllales **New Phytologist**. 227:914-929.
+
 ## 2019
+- Yao, G.,J. Jin, H. Li, J. Yang, V. Mandala, M. Croley, R. Mostow, N. Douglas, M. Chase, M. Christenhusz, D. Soltis, P. Soltis, **S. A. Smith**, S. Brockington, M. Moore, and T. Yi. 2019. Plastid phylogenomic insights into the evolution of Caryophyllales. **Molecular Phylogenetics and Evolution**. 134:74-86
+
+- **Vargas, O. M**, M. Heuertz, **S. A. Smith**, and C. Dick. 2019. Target sequence capture in the Brazil nut family (Lecythidaceae): Marker selection and in silico capture from genome skimming data. ** Molecular Phylogenetics and Evolution**. 135:98-104
+
+- **Chang, J.**, D. Rabosky, **S. A. Smith**, and M. Alfaro. 2019. An R package and online resource for macroevolutionary studies using the ray‐finned fish tree of life. **Methods in Ecology and Evolution**. 10:1118-1124.
+
+- Allen, J., C. C Germain-Aubrey, N. Barve, K. M. Neubig, L. C. Majure, S. W. Laffan, B. D. Mishler, H. L. Owens, **S. A Smith**, W. M. Whitten, J. R. Abbott, D. E. Soltis, R. Guralnick, and P. S. Soltis. 2019. Spatial Phylogenetics of Florida Vascular Plants: The Effects of Calibration and Uncertainty on Diversity Estimates. **iScience**. 11:57-70.
+
+- **Smith, S. A.** and **J. F. Walker**. 2019. PyPHLAWD: A python tool for phylogenetic dataset construction. **Methods in Ecology and Evolution**. 10:104-108. [link](https://doi.org/10.1111/2041-210X.13096)
+
+- **Wang, N.**, **Y. Yang**, M. J. Moore, S. F. Brockington, **J. F. Walker**, **J. W. Brown**, B. Liang, T. Feng, C. Edwards, J. Mikenas, J. Olivieri, V. Hutchinson, A. Timoneda, T. Stoughton, R. Puente, L. C. Majure, U. Eggli, **S. A. Smith**. 2018. Evolution of Portulacineae marked by gene tree conflict and gene family expansion associated with adaptation to harsh environments. Molecular Biology and Evolution
 
 - Allen, J., C. C Germain-Aubrey, N. Barve, K. M. Neubig, L. C. Majure, S. W. Laffan, B. D. Mishler, H. L. Owens, **S. A Smith**, W. M. Whitten, J. R. Abbott, D. E. Soltis, R. Guralnick, P. S. Soltis. 2019. Spatial Phylogenetics of Florida Vascular Plants: The Effects of Calibration and Uncertainty on Diversity Estimates. iScience. 11:57-70.
 
 ## 2018
-- **Wang, N.**, **Y. Yang**, M. J. Moore, S. F. Brockington, **J. F. Walker**, **J. W. Brown**, B. Liang, T. Feng, C. Edwards, J. Mikenas, J. Olivieri, V. Hutchinson, A. Timoneda, T. Stoughton, R. Puente, L. C. Majure, U. Eggli, **S. A. Smith**. 2018. Evolution of Portulacineae marked by gene tree conflict and gene family expansion associated with adaptation to harsh environments. Molecular Biology and Evolution
 - **Walker, J.**, **J. W. Brown**, and **S. A. Smith**. 2018. Analyzing contentious relationships and outlier genes in phylogenomics. Systematic Biology. 67:916–924. [link](https://doi.org/10.1093/sysbio/syy043)
 - **Smith, S. A.** and **J. F. Walker**. 2018. PyPHLAWD: A python tool for phylogenetic dataset construction. Methods in Ecology and Evolution [link](https://doi.org/10.1111/2041-210X.13096)
 - Li-Min, L., L. Mao, T. Yang, J. Ye, B. Liu, H. Li, M. Sun, J. T. Miller, S. Mathews, H. Hu, Y. Niu, D. Peng, Y. Chen, **S. A. Smith**, M. Chen, K. Xiang, C. Le, V. Dang, A. Lu, P. S. Soltis, D. E. Soltis, J. Li and Z. Chen. 2018. Evolutionary history of the angiosperm flora of China-cradle vs. museum. Nature. 554:234-238. doi:10.1038/nature25485
