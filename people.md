@@ -19,19 +19,44 @@ I work on questions related to plant evolution, detecting and describing large s
 
 ## Postdocs
 ### Joey Charboneau
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Tom Carruthers
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Jake Berv
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 ## Graduate students
 
 ### Avinash Subramanian
 ![avinash](assets/img/avinash.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Keyi Feng
 ![keyi](assets/img/keyi.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 ### Hector Figueroa
