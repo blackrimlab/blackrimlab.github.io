@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
 ![lab in 2022](/assets/img/lab2.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 400px;"}
-Welcome to the Smith lab! In the picture on the right, we actually have most of the grad students, postdocs, and visitors in the lab in one picture (with the exception of Oscar - sorry Oscar!). 
+Welcome to the Smith lab! In the picture on the right, we actually have most of the grad students, postdocs, and visitors in the lab in one picture (with the exception of Hector - sorry Hector!). 
 <br>
 <br>
 <br>
@@ -15,35 +15,27 @@ Welcome to the Smith lab! In the picture on the right, we actually have most of 
 
 ## PI: Stephen A. Smith
 ![blackrim as pixel art](/assets/img/pixel_me.png){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 120px;"}
-I work on questions related to plant evolution (e.g., biogeography, age, pattern), detecting and describing large scale patterns of evolution, examining differences in the rate of molecular evolution, and biogeographic patterns. A great deal of this involves the development of new methods and new computational tools. More information on projects related to these topics can be found on the projects page. My faculty page is here. You can get my cv [here](http://blackrim.org/wp-content/uploads/2017/09/cv.pdf?189db0&189db0). 
+I work on questions related to plant evolution, detecting and describing large scale patterns of evolution, examining differences in the rate of molecular evolution, morphological evolution, genomics, and geography. A great deal of this involves the development of new methods and new computational tools. More information on projects related to these topics can be found on the projects page. My faculty page is [here](https://lsa.umich.edu/eeb/people/faculty/eebsmith.html). You can get my cv [here](assets/cv.pdf). 
 
 ## Postdocs
+### Joey Charboneau
 
-### Hannah Marx
-![hannah](assets/img/hannah.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 120px;"}
-Hannah joined the lab to work on Andean plant diversity and cold plant evolution. 
-<br>
-<br>
-<br>
-<br>
-<br>
+### Tom Carruthers
 
-
-### Ning Wang
-![ning](/assets/img/ning.png){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 120px;"}
-Just joined the lab and is working on bird evolution, phylogenomics, and phylogenetic conflict.
-<br>
-<br>
-<br>
-<br>
-<br>
+### Jake Berv
 
 
 ## Graduate students
 
+### Avinash Subramanian
+![avinash](assets/img/avinash.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
+
+### Keyi Feng
+![keyi](assets/img/keyi.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
+
+
 ### Hector Figueroa
 _images of Hector are hard to find_
-
 Hector is working on community phylogenetics and ecology using new theory and methods.
 <br>
 <br>
@@ -52,8 +44,49 @@ Hector is working on community phylogenetics and ecology using new theory and me
 <br>
 
 ### Will Weaver 
-![lijun](/assets/img/will.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
+![will](/assets/img/will.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
 Will is working on machine learning techniques for evolution and ecology.
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Diana
+![diana](){}
+Diana is joint with [Chris Dick]() and this lab and works on systematics in the Ericales clade. 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Raquel
+![raquel](){}
+Raquel is also joint with [Chris Dick]() and this lab and works on systematics in the Ericales clade. 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Visitors
+
+### James Boyko
+
+## Undergraduate students
+
+### Sonia Ahluwalia
+
+### Yi Chieh Huang
+
+### Dana El-Khatib
+
+## Past members
+
+### Drew Larson 
+![drew](/assets/img/drew.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
+Drew is working on the Ericales. 
 <br>
 <br>
 <br>
@@ -69,10 +102,9 @@ Lijun is working on Aizoaceae.
 <br>
 <br>
 
-
-### Drew Larson 
-![drew](/assets/img/drew.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
-Drew is working on the Ericales. 
+### Hannah Marx
+![hannah](assets/img/hannah.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 120px;"}
+Hannah joined the lab to work on Andean plant diversity and cold plant evolution. 
 <br>
 <br>
 <br>
@@ -80,15 +112,14 @@ Drew is working on the Ericales.
 <br>
 
 
-## Undergraduate students
-
-### Sonia Ahluwalia
-
-### Yi Chieh Huang
-
-### Dana El-Khatib
-
-## Past members
+### Ning Wang
+![ning](/assets/img/ning.png){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 120px;"}
+Joined the lab and is working on bird evolution, phylogenomics, and phylogenetic conflict.
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Joseph Walker
 ![joe](/assets/img/joe.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
