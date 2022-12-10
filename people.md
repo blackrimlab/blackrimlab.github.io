@@ -20,6 +20,7 @@ I work on questions related to plant evolution, detecting and describing large s
 ## Postdocs
 ### Joey Charboneau
 ![joey](assets/img/joey.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
+Joey is working on the evolution of fire tolerance in _Acacia_.
 <br>
 <br>
 <br>
@@ -28,6 +29,7 @@ I work on questions related to plant evolution, detecting and describing large s
 
 ### Tom Carruthers
 ![tom](assets/img/tom.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
+Tom is interested in divergence time estimation and other comparative techniques. He is working on both the Ericales and metabolomics of Caryophyllales.
 <br>
 <br>
 <br>
@@ -36,6 +38,7 @@ I work on questions related to plant evolution, detecting and describing large s
 
 ### Jake Berv
 ![jake](assets/img/jake.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
+Jake Berv is a Michigan Life Sciences postdoc that is working on the evolution of birds using genomics, paleontology, and new comparative techniques.
 <br>
 <br>
 <br>
@@ -47,6 +50,7 @@ I work on questions related to plant evolution, detecting and describing large s
 
 ### Avinash Subramanian
 ![avinash](assets/img/avinash.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
+Avinash is interested in methods for uniting ecology and evolution, especially those related to epidemiology. Avinash is also jointly mentored with [Aaron King].
 <br>
 <br>
 <br>
@@ -55,6 +59,7 @@ I work on questions related to plant evolution, detecting and describing large s
 
 ### Keyi Feng
 ![keyi](assets/img/keyi.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
+Keyi is working on the evolution of arctic and alpine plants, especially in the Caryophyllales and the Ericales.
 <br>
 <br>
 <br>
