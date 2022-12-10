@@ -5,7 +5,7 @@ permalink: /courses/
 ---
 
 ## Classes
-
+- 2021-current: [Data Analysis and Programming for Biology, BIO202, University of Michigan](/coursepages/bio202)
 - 2012-current: [Evolution, EEB 390, University of Michigan](/coursepages/eeb390)
 - 2013-current: [Phylogenetic Theory and Methods, EEB 491, University of Michigan](/coursepages/eeb491/)
 - 2017-current: [Science, Reasons, and Nonsense, BIO 121, University of Michigan](/coursepages/bio121/)
