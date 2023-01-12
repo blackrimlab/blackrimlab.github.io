@@ -116,6 +116,10 @@ James joined from University of Arkansas and is currently a postdoc with Dr. Bri
 
 ## Undergraduate students
 
+### Sanjana Nagamangala
+![sanjana](/assets/img/sanjana.jpg){:style="float: right;margin-left: 7px;margin-bottom: 7px; width: 100px;"}
+Sanjana is working with Joey on chloroplast evolution in Fabaceae.
+
 ### Sonia Ahluwalia
 
 ### Yi Chieh Huang
