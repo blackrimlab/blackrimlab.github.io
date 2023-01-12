@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 *lab members in bold*
 
+(I am very bad at keeping this up to date. So you can always check [google scholar](https://scholar.google.com/citations?hl=en&user=gVwJZpAAAAAJ&view_op=list_works&sortby=pubdate))
+
 ## 2022
 
 ## 2021
